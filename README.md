@@ -36,10 +36,12 @@ Este proyecto implementa un lazo de control cerrado básico:
 6. Presiona Ctrl+C para detener y revisar el historial en `historial_sensor.csv`
 
 ## Ejemplo de salida
+```
 Valor:  523 | Porcentaje:  51.1% | ██████████
 Arduino: LED encendido
 Valor:  489 | Porcentaje:  47.8% | █████████
 Arduino: LED apagado
+```
 
 ## Registro CSV generado automáticamente
 timestamp,valor,porcentaje,estado
